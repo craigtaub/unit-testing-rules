@@ -1,4 +1,4 @@
-## Should be treated as Regression, to compliment Unit
+## Should be treated as Regression, to compliment Unit. Why?
 
 - If React components are POJO (input, processing, outputting), why treat them any different to a normal module?
 
