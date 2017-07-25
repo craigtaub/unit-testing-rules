@@ -1,0 +1,12 @@
+- Modules should be isolated/extendable/reusable.
+- Devs read and maintain tests. Spend a lot of time with them.
+- Test behaviour, code-paths, errors, formats, boundaries. NOT implementation. <i>“cover arguments and behaviour which are tied to output (e.g. externals).”</i>
+  - If arguments affect output or behaviour.
+  - Behaviour = something which leads to how output is produced e.g if important to call externalModuleX (that's behaviour). Could still refactor.
+  - 80/20 rule works perhaps. But if see something cover it else can cause bug later.
+  - UI tests are included if have behaviour...click triggers X..or arguments change Y.
+- Amount of test code should rival live code.
+- Well written tests are not a formality it’s an essential part of good codebase. Semantics (clean code) play a key role in live code so the same applies to tests. 
+- Good patterns help maintain consistency and styling.
+- REMEMBER you can't make incremental improvements without letting go of consistency.
+- React - components return just POJOs (under the hood), so why treat any different to a normal module. No UI anymore. It's all data and data trees.
