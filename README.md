@@ -7,5 +7,5 @@ The why and what for my unit tests. Serving as a resource to come back and check
 - [Rules](https://github.com/craigtaub/unit-testing-rules/blob/master/RULES.md)
 
 Additionally:
-- [COVERAGE](https://github.com/craigtaub/unit-testing-rules/blob/master/FACTS.md)
-- [SNAPSHOTS](https://github.com/craigtaub/unit-testing-rules/blob/master/SNAPSHOTS.md)
+- [Coverage](https://github.com/craigtaub/unit-testing-rules/blob/master/FACTS.md)
+- [Snapshots](https://github.com/craigtaub/unit-testing-rules/blob/master/SNAPSHOTS.md)
