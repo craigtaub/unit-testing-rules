@@ -16,4 +16,4 @@
 
 - Depending on the test, its easy to generate superfluous amounts of markup/code.
 
-- Conditionals+dynamics should be from unit.
+- Conditionals and dynamics should be from unit.
