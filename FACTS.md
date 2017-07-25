@@ -8,5 +8,5 @@
 - Amount of test code should rival live code.
 - Well written tests are not a formality it’s an essential part of good codebase. Semantics (clean code) play a key role in live code so the same applies to tests. 
 - Good patterns help maintain consistency and styling.
-- REMEMBER you can't make incremental improvements without letting go of consistency.
+  - REMEMBER you can't make incremental improvements without letting go of consistency.
 - React - components return just POJOs (under the hood), so why treat any different to a normal module. No UI anymore. It's all data and data trees.
